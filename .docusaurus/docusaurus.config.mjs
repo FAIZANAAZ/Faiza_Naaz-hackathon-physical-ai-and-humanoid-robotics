@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
   "baseUrl": "/",
-  "organizationName": "FAIZA ",
+  "organizationName": "FAIZA NAAZ",
   "projectName": "physical-ai-and-humanoid-robotics",
   "onBrokenLinks": "warn",
   "i18n": {
@@ -21,7 +21,7 @@ export default {
     "localeConfigs": {}
   },
   "customFields": {
-    "apiUrl": "https://web-production-e1ceb.up.railway.app",
+    "apiUrl": "web-production-6ab44.up.railway.app",
     "apiKey": ""
   },
   "presets": [
@@ -115,7 +115,7 @@ export default {
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/taha-ahmed-siddiqui-245324175/"
+              "href": "https://www.linkedin.com/in/faiza-naaz-web-developer-2421722b9/"
             }
           ]
         },
